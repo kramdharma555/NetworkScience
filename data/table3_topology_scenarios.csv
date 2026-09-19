@@ -1,0 +1,4 @@
+scenario,edges,density,avg_degree,avg_clustering,lcc_fraction,algebraic_connectivity
+no_ris,60.1,0.218,5.01,0.529,1.000,1.982
+random_ris,70.1,0.254,5.84,0.564,1.000,2.357
+ris_assisted,70.1,0.254,5.84,0.564,1.000,2.357

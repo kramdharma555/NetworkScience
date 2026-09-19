@@ -1,0 +1,23 @@
+parameter,symbol,value,unit
+carrier_frequency,f_c,28,GHz
+system_bandwidth,B,100,MHz
+simulation_area,X x Y,500x500,m^2
+num_bs,N_B,2,
+num_ris,N_R,2,
+num_ue,N_U,20,
+ris_elements,N,64,
+bs_tx_power,P_BS,46,dBm
+bs_antenna_gain,G_BS,15,dBi
+ue_antenna_gain,G_UE,0,dBi
+ue_noise_figure,NF,9,dB
+thermal_noise_power,N0B,-94,dBm
+sinr_threshold,gamma_min,-5,dB
+rate_threshold,R_min,1,Mbps
+max_comm_distance,d_max,300,m
+path_loss_model,,free_space,
+ue_speed_range,v,"[1,5]",m/s
+mobility_model,,random_waypoint,
+pause_time,tau_p,2,s
+time_step,delta_t,0.1,s
+num_steps,T,50,steps
+random_seed,,42,

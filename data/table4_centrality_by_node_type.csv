@@ -1,0 +1,4 @@
+node_type,degree_C_D,betweenness_C_B,closeness_C_C,eigenvector_C_E
+base_station,0.783,0.187,0.852,0.384
+ris,0.826,0.217,0.875,0.396
+user_equipment,0.144,0.0003,0.567,0.152

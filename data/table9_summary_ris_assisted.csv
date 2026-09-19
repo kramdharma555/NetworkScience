@@ -1,0 +1,9 @@
+metric,mean,std,min,max
+edges,70.1,2.09,65,75
+density,0.254,0.008,0.236,0.272
+avg_degree,5.84,0.17,5.42,6.25
+avg_clustering,0.564,0.024,0.498,0.584
+lcc_fraction,1.000,0.000,1.0,1.0
+avg_path_length,1.746,0.008,1.728,1.765
+algebraic_connectivity,2.357,0.381,1.886,2.742
+diameter,2.00,0.00,2,2

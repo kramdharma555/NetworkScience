@@ -1,0 +1,4 @@
+regime,speed_min_mps,speed_max_mps,avg_edges,churn_per_step
+low_pedestrian,0.5,1.5,69.4,9.7
+medium_walking,2.0,5.0,70.0,8.9
+high_vehicular,5.0,15.0,70.5,9.1
