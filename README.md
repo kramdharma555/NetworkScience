@@ -1,7 +1,7 @@
 # RIS-Assisted 6G Topology Analysis: Data and Code
 
 Companion repository for the paper *Network-Science Analysis of Dynamic Multi-Layer RIS-Assisted 6G Networks:
-Topology Impact and Predictive Control Framework* (submitted to IEEE Open Journal of the Communications Society).
+Topology Impact and Predictive Control Framework*.
 
 ## Contents
 | Folder | Description |
