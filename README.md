@@ -1,4 +1,4 @@
-# risnet: closed-loop RIS control study (Section 7.9)
+# RISNET: closed-loop RIS control study (Section 7.9)
 
 Self-contained re-implementation of the RIS-assisted 6G topology model of the paper and the closed-loop
 evaluation of predictive RIS activation. **This is not the code that produced Tables 3-9.** It follows the
